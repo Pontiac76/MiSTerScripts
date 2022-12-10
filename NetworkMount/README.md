@@ -8,5 +8,13 @@ I run this out of the /root directory when needed.
 This script relies on the script from the MiSTer-devel scripts.
 https://github.com/MiSTer-devel/CIFS_MiSTer
 
+## Recommendations
+It is HIGHLY recommended to run on your Local Area Network via a hard-wired setup, and not over WiFi, and not over the Internet via a VPN.
+
+That isn't to say you can't use WiFi or the Internet, but they're not as stable connections as a wire.
+
 ## License
-This script is 100% "Do whatever you want with it".  I can't be bothered to "pick" a license, so, public domain, MIT, whatever the most open license there is.  If it's no license, that's the one I want!
+This is Public Domain, MIT, whatever.  I'll never take someone to court over when the documentation is longer than the BASH script. ;)  If you use it, let me know, I'd like to hear about it, but it's ABSOLUTELY not a requirement!
+
+## How to use
+Please see the Wiki.
